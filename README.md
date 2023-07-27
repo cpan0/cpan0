@@ -1,6 +1,6 @@
 ### yOYO
 
-<img src="https://tenor.com/view/cat-dunce-gif-19445947" alt="dunce-cat"/>
+<img src="https://media.tenor.com/2_tFwj4t680AAAAd/cat-dunce.gif" alt="dunce-cat"/>
 
 <!--
 **cpan0/cpan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
