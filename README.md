@@ -1,6 +1,6 @@
 ### yOYO
 
-<img align="center" alt="dunce-cat" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" />
+<img align="center" alt="dunce-cat" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width=500px/>
 
 <!--
 **cpan0/cpan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
