@@ -1,8 +1,8 @@
 ### hello hello!
 
 <div align="center">
-  <img alt="dunce-cat" src="./images/dunce-cat.gif" height=100cm/>
-  <img alt="dunce-dog" src="./images/dunce-dog.gif" height=100cm/>
+  <img alt="dunce-cat" src="./images/dunce-cat.gif" height=250cm/>
+  <img alt="dunce-dog" src="./images/dunce-dog.gif" height=250cm/>
 </div>
 
 <!--
