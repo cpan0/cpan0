@@ -1,8 +1,8 @@
 ### hello hello!
 
 <div align="center">
-  <img alt="dunce-cat" src="./dunce-cat.gif" />
-  <img alt="dunce-dog" src="./dunce-dog.gif" />
+  <img alt="dunce-cat" src="./images/dunce-cat.gif" />
+  <img alt="dunce-dog" src="./images/dunce-dog.gif" />
 </div>
 
 <!--
